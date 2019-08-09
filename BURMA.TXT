@@ -1,0 +1,276 @@
+
+
+
+                           Hj‘lp & instruktioner til
+
+                               "Mystik i Burma"
+                                 (Version 1.1)
+
+                               Af Peter Ravnholt
+
+                            (C) RealWare Games 1990
+
+                         -----------------------------
+
+
+
+                     Og husk nu lige ->  S H A R E W A R E
+
+        Dette program er ShareWare, hvilket betyder, at hvis du bruger
+        det, forpligter du dig til at registrere dig som bruger af
+        programmet f›rst. Dette koster kun 60,- kr. og inkluderer
+        i›vrigt gratis medlemsskab af RealWare, s† g›r det venligst.
+        Programmet er jo dansk, og en registrering medf›rer flere
+        fordele. L‘s mere under 'Registrering'.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              Om selve programmet :
+
+        "Mystik  i Burma" er et dansk science fiction teksteventyr-
+        spil, originalt skrevet i Turbo Pascal 5.5. Det indeholder
+        115 lokationer og 94 objekter. Ordfor†det er p† ca. 120 ord.
+
+        Hardware : Spillet bruger ingen grafik, og skulle derfor kunne
+                   k›re med alle slags grafikkort.
+
+                   Spillet har ved afpr›vning p† diverse computere med
+                   diverse grafikkort, DOS versioner, RAM st›rrelse,
+                   o.s.v. virket perfekt. Dog skal det n‘vnes, at
+                   nogle grafik-kort ikke tegner det danske '' (OE)
+                   rigtigt, men programmet forst†r stadig tegnet.
+
+        Filer    :  Spillet best†r af f›lgende filer :
+
+                    BURMA.EXE      : Selve spillet.
+                    BDATA.DAT      : Datafil til spillet.
+                    BOBJ.DAT       :          -
+                    BLOCS.DAT      :          -
+                    BMSGS.DAT      :          -
+                    BHELP.DAT      :          -
+                    HISTORY.DOC    : Oversigt over h‘ndelser fra †r
+                                     2000 og frem.
+                    MISSION.DOC    : Dokument om missionens form†l.
+                    BURMA.DOC      : Denne fil. Indeholder hj‘lp og
+                                     instruktioner til spillet.
+
+                    For at spille spillet startes filen BURMA.EXE
+                    blot. Programmet kan k›re b†de p† diskette og
+                    harddisk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Instruktioner :
+
+
+        Dette  spil er et dansk teksteventyrspil. Spillet indeholder
+        kun tekst og er bygget op som de kendte engelske Infocom spil.
+        Der er brugt lydeffekter flere steder i spillet.
+           Jeg vil foresl†, at du f›r du spiller spillet l‘ser filen
+        MISSION.DOC, da den fort‘ller om, hvad dit eventyr egentligt
+        g†r ud p†. Uden at have l‘st denne fil kommer du ingen vegne.
+
+        Spillet :
+
+        Spillet er som alle andre eventyrspil. Det vil sige, at man
+        er med i en historie p† computeren, som man ved hj‘lp af
+        indtastede kommandoer selv styrer. Der kan bruges simple
+        kommandoer som "Tag pistol", "G† nord", "Drik  vin", o.lign.
+        Dette spils kommandofortolker er dog mere avanceret. Derfor
+        kan ogs† mere avancerede kommandoer bruges : "Giv kortet til
+        manden", "Fyld flasken med vand". Enddog sammenk‘dninger kan
+        bruges : "Tag dragten, tag den p†, nord, smid lighteren og
+        kortet, vest, sig hejsa". Det er nok at skrive de f›rste 4
+        bogstaver af hvert ord. Nogle kan endda forkortes til eet
+        bogstav (De mest brugte, som f.eks. "Unders›g" -> "U").
+
+        Her er nogle af de mest almindelige kommandoer. Der er natur-
+        ligvis flere til specielle lejligheder, men dem m† man selv
+        finde.
+
+        NORD,SYD,ST,VEST,OP,NED
+        TAG, SMID, UNDERSG
+        TRYK P, T’ND
+        L, LISTE, BRET, BAGAGE, CHECK
+        SCORE
+        HJ’LP
+
+        Kommandoen  HJ’LP giver nogle steder et tip om, hvordan et
+        eller andet problem skal l›ses. SCORE viser spillerens  score,
+        som for›ges hver gang spilleren har l›st et problem og/eller
+        kommer frem i handlingen.
+
+        Et godt r†d :
+        Unders›g alt. Det kan tit give hj‘lp til l›sning af problemer.
+        Det er ogs† en god ide at tegne et kort, s† du kan holde styr
+        over hvor forskellige ting befinder sig. Hvis du sidder fast,
+        s† pr›v f›rst at g† andre steder hen og se, om du skulle have
+        overset noget. Tit er det ogs† en god ide at udf›re en ting
+        igen, selvom du m†ske ikke havde succes f›rste gang.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Registrering :
+
+        Hvis du spiller spillet SKAL du registrere dig som bruger af
+        programmet. Til dette kan nedenst†ende kupon bruges. At
+        blive registreret bruger vil sige, at du f†r retten til at
+        bruge programmet s† meget du orker. I›vrigt vil du fremover f†
+        besked (pr. post) hver gang en ny titel udkommer fra RealWare
+        Games. Samtidig f†r du at vide hvor man kan f† programmet, og
+        du vil f† mulighed for at bestille den nyeste version hos
+        RealWare, hvis du har lyst.
+
+        --------------------------------------------------------------
+
+                    Brugerregistrering ved RealWare Games.
+
+
+        Jeg  vil gerne registreres som bruger af 'Mystik i Burma' og
+        samtidig indmeldes i RealWare Games, hvor jeg bl.a. vil f†
+        besked om alle nye titler, som udkommer.
+
+        Navn _______________  ____________________________
+
+        Gade ________________ Nr. ______
+
+        Postnr. ___________  By ________________________
+
+        Tlf. nr ___________________________
+
+        Evt. kommentar _______________________________________________
+
+                       _______________________________________________
+
+                       _______________________________________________
+
+
+        Jeg har vedlagt kr. 60,- p† check ___
+
+        Jeg har indsat kr. 60,- p† giro nr. 3 03 71 26 ___
+
+
+        Underskrift __________________________________
+
+
+        --------------------------------------------------------------
+
+        Sendes til :
+
+        RealWare Games
+        v. Peter Ravnholt
+        S›toften 31
+        8250 Eg†
+
+
+        Du er velkommen til at komme med evt. sp›rgsm†l og kommen-
+        tarer.
+
+        Peter Ravnholt - FidoNet (2:231/64.6)
+
+
+        God forn›jelse!!
+
